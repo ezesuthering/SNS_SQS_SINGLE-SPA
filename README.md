@@ -1,0 +1,1 @@
+# SNS_SQS_SINGLE-SPA
