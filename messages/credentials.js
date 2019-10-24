@@ -1,2 +1,3 @@
-export const AWS_ACCESS_KEY_ID = 'AKIA4W76KMH6GI32GTOT'
-export const AWS_SECRET_ACCESS_KEY= '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'
+module.exports = {
+
+};
