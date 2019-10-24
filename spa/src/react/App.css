@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    background: rgb(22, 22, 22);
+    color: white;
+    font-family: 'Barrio';
+}
+
+#react, #vue {
+    padding: 2% 31%;
+}
+
+#react div, #vue div {
+    padding: 1%;
+}
+
+span, input, button {
+    margin: 1%;
+}
+
+span, li {
+    font-size: 20px;
+}
+
+li {
+    font-weight: 600;
+}
+
+h1 {
+    font-family: 'Faster One';
+    font-size: 10vh;
+    font-weight: 100;
+    font-style: italic;
+    text-shadow: rgb(59, 206, 104) 1px 1px;
+    margin: 1%;
+}
+
+#vue h1 {
+    color: rgb(59, 206, 104);
+    text-shadow: rgb(22, 22, 22) 3px 1px;
+}
+
+#vue {
+    background: white;
+    color: black;
+}
+
+#vue button {
+    background-color: black;
+    color: rgb(59, 206, 104);
+}
+
+#vue button:hover {
+    color: black;
+    background-color: rgb(59, 206, 104);
+    cursor: pointer;
+}
+
+button {
+    background-color: rgb(59, 206, 104);
+    border: none;
+    color: black;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'Barrio';
+}
+
+button:hover {
+    background-color: black;
+    color: rgb(59, 206, 104);
+    cursor: pointer;
+}
+
+input {
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+    text-align: right;
+}
